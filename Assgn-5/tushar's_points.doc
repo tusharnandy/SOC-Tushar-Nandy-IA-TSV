@@ -1,0 +1,12 @@
+1. classified songs on the basis of genres, artists, popularity and moods
+2. made UI separately
+3. converted categorical data into dimensions
+4. approach somewhat like knn
+5. knn is used for 'categorization' and 'regression'
+6. for this task, we need 'selection'
+7. the basic code for each command enterred by a user is different
+8. 'next', 'skip-next', and 'search'; all produce a different effect on the rating of moods:
+9. these changes in the rating depend on how many times a song is skipped
+10. no need for graphs i guess
+11. a model for accuracy is developed, taking into account how many times our model faces rejections
+12. additionally, add a few results from the main output
